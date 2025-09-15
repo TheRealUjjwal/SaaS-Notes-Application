@@ -1,0 +1,7 @@
+/* Minimal global styles for a clean, modern look */
+body {
+  background: #f0f2f5;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
